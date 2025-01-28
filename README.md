@@ -75,6 +75,6 @@
 
 <h2>License</h2>
 <p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
-
+<h3>Developed by Sifiso Vinjwa</h3>
 </body>
 </html>
